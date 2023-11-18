@@ -14,7 +14,7 @@ export async function getStaticProps() {
 function HomePage({ products }) {
   console.log('[HomePage] render:', products);
   return (
-    <Page title="Indoor Plants">
+    <Page title="Indoor Plantsss">
       <ul className="grid grid-cols-1 lg:grid-cols-3 gap-4">
         {products.map((product) => (
           <li key={product.id}>

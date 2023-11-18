@@ -11,7 +11,7 @@ function NavBar() {
       <ul className="flex gap-2">
         <li className="text-lg font-extrabold">
           <Link href="/">
-            Next Shop
+            BetterMe
           </Link>
         </li>
         <li role="separator" className="flex-1" />
