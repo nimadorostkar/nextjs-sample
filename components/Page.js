@@ -3,6 +3,7 @@ import NavBar from './NavBar';
 import Title from './Title';
 import Image from 'next/image'
 
+
 function Page({ title, children }) {
   return (
     <>
